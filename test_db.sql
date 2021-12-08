@@ -40,8 +40,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `cust_id`, `password`, `name`) VALUES
-(1, '1234567891', 'Riya12345#', 'Riya'),
-(2, '2345678912', 'Riddhi12345#', 'Riddhi');
+(1, '1234567', 'Riya12345#', 'Riya'),
+(2, '2345678', 'Riddhi12345#', 'Riddhi');
 
 --
 -- Indexes for dumped tables
